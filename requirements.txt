@@ -1,0 +1,16 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+gym
+stable_baselines3
+optuna
+ta
+empyrical
+ccxt
+psycopg2
+configparser
+opencv-python 
+quantstats>=0.0.17
+statsmodels
+pillow
